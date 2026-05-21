@@ -1,0 +1,6 @@
+{
+  "name": "EduPaper AI",
+  "description": "AI-powered question paper generator for teachers. Create customized papers by subject, board, and question style with automatic answer key generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
